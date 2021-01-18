@@ -160,12 +160,12 @@ sup {
 }
 
 a {
-  color: #64a19d;
+  color: #414e69;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: #467370;
+  color: #414e69;
   text-decoration: underline;
 }
 
@@ -2458,13 +2458,13 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #64a19d;
-  border-color: #64a19d;
+  background-color: #6477a1;
+  border-color: #6477a1;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #548b87;
-  border-color: #4f837f;
+  background-color: #414e69;
+  border-color: #414e69;
 }
 .btn-primary:focus, .btn-primary.focus {
   color: #fff;
@@ -10124,8 +10124,8 @@ body {
 #mainNav .navbar-toggler {
   font-size: 80%;
   padding: 0.75rem;
-  color: #64a19d;
-  border: 1px solid #64a19d;
+  color: #414e69;
+  border: 1px solid #414e69;
 }
 #mainNav .navbar-toggler:focus {
   outline: none;
@@ -10207,7 +10207,7 @@ body {
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000000 100%), url("../assets/img/bg-masthead.jpg");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000000 100%), url("../assets/img/skyline.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -10283,7 +10283,7 @@ body {
     padding: 5rem;
   }
   .projects-section .project-text hr {
-    border-color: #64a19d;
+    border-color: #414e69;
     border-width: 0.25rem;
     width: 30%;
   }
